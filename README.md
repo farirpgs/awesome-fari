@@ -1,6 +1,6 @@
 # awesome-fari
 
-A curated list of awesome things related to Fari
+A curated list of awesome things related to [Fari](https://fari.app), the free and open source virtual table top application.
 
 ![banner](./images/banner.png)
 
@@ -9,5 +9,9 @@ A curated list of awesome things related to Fari
 - ...
 
 # Character Templates
+
+- ...
+
+# Misc
 
 - ...
