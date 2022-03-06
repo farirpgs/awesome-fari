@@ -7,6 +7,7 @@ A curated list of awesome things related to [Fari](https://fari.app), the free a
 # Scene Templates
 
 - [Challenge with Side-Quest](https://drive.google.com/file/d/1qdmM-RWTl8RFXO_ghxFhesh3s3ZkSqDW/view?usp=sharing) from [The Polverine](https://thepolverine.com/)
+- [Generic Tavern](./templates/scenes/the_tavern.fari.json)
 - ...
 
 # Character Templates
