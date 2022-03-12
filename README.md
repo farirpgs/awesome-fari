@@ -7,6 +7,7 @@ A curated list of awesome things related to [Fari](https://fari.app), the free a
 # Scene Templates
 
 - [Challenge with Side-Quest](https://drive.google.com/file/d/1qdmM-RWTl8RFXO_ghxFhesh3s3ZkSqDW/view?usp=sharing) from [The Polverine](https://thepolverine.com/)
+- ...
 
 
 - Fantasy Setting:
@@ -19,6 +20,7 @@ A curated list of awesome things related to [Fari](https://fari.app), the free a
 # Character Templates
 - Condensed:
   - [Fate Condensed Player with Reference](./templates/players/player-condensed-0.0.1.fari.json) - Character sheet that includes help text for each skill and a reference page for actions and outcomes.
+- ...
 
 # Collection Templates
 - [Fate Toolkit](./templates/collections/collection-fate-toolkit-0.0.1.fari.json) - Inspired by [Fate Adversary Toolkit SRD](https://fate-srd.com/fate-adversary-toolkit).
